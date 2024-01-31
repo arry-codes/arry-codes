@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A CSE Undergrad student from Vellore Institute of Technology (VIT) <br> Aspiring FullStack Web Developer & ML Enthusiast</h3>
+<h3 align="center">A CSE undergrad student from Vellore Institute of Technology (VIT) <br> Aspiring FullStack Web Developer & ML Enthusiast</h3>
 <p align="center"> <a href="https://www.instagram.com/me_aryankashyap/" target="blank"><img src="https://img.shields.io/insta/follow/me_aryankashyap?logo=insta&style=for-the-badge"></a> </p>
 
 - 🌱 I’m currently learning **C++, Python, BootStrap, Tailwind CSS, OpenAI**
