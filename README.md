@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://www.instagram.com/me_aryankashyap/" target="blank"><img src="https://img.shields.io/insta/follow/me_aryankashyap?logo=insta&style=for-the-badge"></a> </p>
 
 - 🌱 I’m currently learning **C++, Python, BootStrap, Tailwind CSS, OpenAI**
-- 🤝 I’m looking for help with AWS Cloud
+- 🤝 I’m looking for help with **AWS Cloud**
 - 💬 Ask me about **css, generativeAI, tailwind, cloud**
 - 📫 How to reach me **kashyap.aryan.2517@gmail.com**
 - ⚡ Fun fact **I think i write better code lol :p**
