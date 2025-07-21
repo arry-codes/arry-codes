@@ -1,8 +1,6 @@
 <h1 align="center">Aryan ! Here 👋🏻</h1>
 
-##################
 
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kashyap-aryan/" target="_blank">
