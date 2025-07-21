@@ -26,13 +26,13 @@
 
 ###
 
-<h3 align="left">-  🎓 Sophomore at VIT University<br>- 🌐 Navigating the world of Data Science and ML<br>- ☁️ Specializing in Cloud Computing <br>with hands-on exposure to Amazon AWS<br>- 🧑🏼‍💻 Eager to grow as a Full-Stack developer</h3>
-
-###
-
 <br clear="both">
 
 <img align="right" height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+###
+
+<h3 align="left">-  🎓 Sophomore at VIT University<br>- 🌐 Navigating the world of Data Science and ML<br>- ☁️ Specializing in Cloud Computing <br>with hands-on exposure to Amazon AWS<br>- 🧑🏼‍💻 Eager to grow as a Full-Stack developer</h3>
 
 ###
 
