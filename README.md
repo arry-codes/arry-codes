@@ -24,8 +24,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
