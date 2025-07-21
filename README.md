@@ -23,19 +23,19 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
-
 <h3 align="left">-  🎓 Sophomore at VIT University<br>- 🌐 Navigating the world of Data Science and ML<br>- ☁️ Specializing in Cloud Computing <br>with hands-on exposure to Amazon AWS<br>- 🧑🏼‍💻 Eager to grow as a Full-Stack developer</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<img align="right" height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -57,8 +57,17 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=arry-codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arry-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
