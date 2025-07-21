@@ -23,13 +23,13 @@
 
 ###
 
-<h3 align="left">-  🎓 Sophomore at VIT University<br>- 🌐 Navigating the world of Data Science and ML<br>- ☁️ Specializing in Cloud Computing <br>with hands-on exposure to Amazon AWS<br>- 🧑🏼‍💻 Eager to grow as a Full-Stack developer</h3>
-
-###
-
 <br clear="both">
 
 <img align="right" height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+###
+
+<h3 align="left">-  🎓 Sophomore at VIT University<br>- 🌐 Navigating the world of Data Science and ML<br>- ☁️ Specializing in Cloud Computing <br>with hands-on exposure to Amazon AWS<br>- 🧑🏼‍💻 Eager to grow as a Full-Stack developer</h3>
 
 ###
 
@@ -57,18 +57,15 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arry-codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arry-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arry-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=arry-codes&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -81,10 +78,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arry-codes/arry-codes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arry-codes/arry-codes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arry-codes/arry-codes/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arry-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=arry-codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 ###
