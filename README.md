@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">-  🎓 Sophomore at VIT University<br>- 🌐 Navigating the world of Data Science and ML<br>- ☁️ Specializing in Cloud Computing <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with hands-on exposure to Amazon AWS<br>- 🧑🏼‍💻 Eager to grow as a Full-Stack developer</h4>
+<h3 align="left">-  🎓 Sophomore at VIT University<br>- 🌐 Navigating the world of Data Science and ML<br>- ☁️ Specializing in Cloud Computing <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with hands-on exposure to Amazon AWS<br>- 🧑🏼‍💻 Eager to grow as a Full-Stack developer</h3>
 
 ###
 
