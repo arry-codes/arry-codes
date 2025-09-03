@@ -1,4 +1,4 @@
-<h1 align="center">Aryan !! Here 👋🏻</h1>
+<h1 align="center">Aryan! Here 👋🏻</h1>
 
 ###
 
